@@ -1,6 +1,6 @@
 Name:           meta-desktop-gnome
 Version:        1
-Release:        1
+Release:        2
 License:        GPL-3.0
 Summary:        Run the GNOME GUI desktop environment.
 Url:            https://clearlinux.org/
