@@ -1,6 +1,6 @@
 Name:           meta-desktop-gnome
 Version:        1
-Release:        4
+Release:        5
 License:        GPL-3.0
 Summary:        Run the GNOME GUI desktop environment.
 Url:            https://clearlinux.org/
@@ -24,8 +24,6 @@ Requires:       alsa-plugins-lib
 Requires:       alsa-utils
 Requires:       aspell-en
 Requires:       at-spi2-core
-Requires:       atk-data
-Requires:       atk-lib
 Requires:       autossh
 Requires:       bash
 Requires:       bash-completion
