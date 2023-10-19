@@ -1,6 +1,6 @@
 Name:           meta-desktop-gnome
 Version:        1
-Release:        5
+Release:        6
 License:        GPL-3.0
 Summary:        Run the GNOME GUI desktop environment.
 Url:            https://clearlinux.org/
@@ -33,8 +33,6 @@ Requires:       bolt
 Requires:       bzip2
 Requires:       cairo-lib
 Requires:       cantarell-fonts
-Requires:       caribou
-Requires:       caribou-locales
 Requires:       clear-font
 Requires:       clr-desktop-defaults
 Requires:       clr-fwupd-hooks
